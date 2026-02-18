@@ -1,8 +1,11 @@
 package Organization;
 
-public class createOrg {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
+public class CreateOrgTest {
+@Test
+	public void  createOrgTest() 
+{
 		// TODO Auto-generated method stub
 System.out.println("hi");
 System.out.println("hello");
