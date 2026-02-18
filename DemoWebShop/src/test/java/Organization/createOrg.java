@@ -9,6 +9,8 @@ System.out.println("hello");
 System.out.println("bye");
 System.out.println("hkhn,");
 System.out.println("bjhik");
+System.out.println(System.getProperty("browser"));
+System.out.println(System.getProperty("url"));
 	}
 
 }
